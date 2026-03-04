@@ -1,2 +1,5 @@
 *.DS_Store
 .idea
+/get_data/corpus
+/get_data/outputs
+/get_data/resources/
